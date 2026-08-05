@@ -98,10 +98,9 @@ A&T2SL/
 │   ├── signup.html           # User registration
 │   └── animation.html        # Animation playback page
 ├── assets/                   # ASL animation videos
-│   ├── a.mp4 ... z.mp4      # Letter animations
-│   ├── 0.mp4 ... 9.mp4      # Number animations
-│   └── hello.mp4 ...         # 150+ word animations
-└── 1.py                      # NLTK data download helper
+   ├── a.mp4 ... z.mp4        # Letter animations
+   ├── 0.mp4 ... 9.mp4        # Number animations
+   └── hello.mp4 ...          # 150+ word animations
 ```
 
 ## 📸 Usage
