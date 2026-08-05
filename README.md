@@ -1,4 +1,4 @@
-# 🤟 A&T2SL — American Text to Sign Language Converter
+# 🤟 A&T2SL — Audio & Text to Indian Sign Language Converter
 
 A Django-based web application that converts English text into American Sign Language (ASL) animations in real time. It uses NLP techniques — tokenization, POS tagging, lemmatization, and tense detection — to process input text, then plays corresponding sign language video animations for each word or letter.
 
